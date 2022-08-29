@@ -16,3 +16,6 @@
 
 ### Reload udevadm :
 `udevadm control --reload-rules`
+
+### Detect USB :
+`ls -lha /dev/disk/by-id/usb-*`
