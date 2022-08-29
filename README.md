@@ -17,8 +17,8 @@
 ### Reload udevadm :
 `udevadm control --reload-rules`
 
-By :
-liberodark
-sbarjatiya
-Kiran Kollipara
-Krati Jain
+### By :
+- liberodark
+- sbarjatiya
+- Kiran Kollipara
+- Krati Jain
